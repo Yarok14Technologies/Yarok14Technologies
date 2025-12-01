@@ -109,3 +109,27 @@ I’m currently building the **Yarok-14 Mixed-Signal Microprocessor**, engineere
 
 
 ![### QR Code ](https://github.com/Yarok14Technologies/Yarok14Technologies/blob/main/frame.png)
+
+
+
+---
+
+# 📊 GitHub Stats (Neon Theme)
+
+<p align="center">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Yarok14Technologies&show_icons=true&theme=tokyonight&title_color=00E5FF&icon_color=00E5FF"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarok14Technologies&layout=compact&theme=tokyonight&title_color=00E5FF"/>
+</p>
+
+---
+
+# ⚡ Fun Fact  
+I’m building a microprocessor that increases **biogas production** —  
+**where silicon meets sustainability** 🌱⚡
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=00E5FF&section=footer"/>
+</p>
+
