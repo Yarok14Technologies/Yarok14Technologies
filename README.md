@@ -107,4 +107,5 @@ I’m currently building the **Yarok-14 Mixed-Signal Microprocessor**, engineere
 - X/Twitter: https://x.com/BBiji34944  
 - Website: https://yarok14technologies.github.io/yarok14/
 
-### QR Code (https://github.com/Yarok14Technologies/Yarok14Technologies/blob/main/frame.png)
+
+![### QR Code ](https://github.com/Yarok14Technologies/Yarok14Technologies/blob/main/frame.png)
