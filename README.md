@@ -146,9 +146,5 @@ We are building a mixed-signal microprocessor that increases **biogas production
   <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=00E5FF&section=footer"/>
 </p>
 
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=00E5FF&section=footer"/>
-</p>
+---
 
