@@ -114,20 +114,39 @@ I’m currently building the **Yarok-14 Mixed-Signal Microprocessor**, engineere
 
 ---
 
-# 📊 GitHub Stats (Neon Theme)
+
+# 📊 Company Metrics & Highlights
 
 <p align="center">
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Yarok14Technologies&show_icons=true&theme=tokyonight&title_color=00E5FF&icon_color=00E5FF"/>
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarok14Technologies&layout=compact&theme=tokyonight&title_color=00E5FF"/>
+
+<!-- Total Repositories -->
+<img src="https://img.shields.io/badge/Active%20Repositories-40+-00E5FF?style=for-the-badge"/>
+
+<!-- Tech Stacks -->
+<img src="https://img.shields.io/badge/VLSI%20%7C%20ASIC%20%7C%20FPGA-Expertise-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML%20%2F%20DL-Solutions-00E5FF?style=for-the-badge"/>
+
+<!-- Sky130 -->
+<img src="https://img.shields.io/badge/Sky130-ASIC%20Ready-00E5FF?style=for-the-badge"/>
+
+<!-- Clients -->
+<img src="https://img.shields.io/badge/Global%20Clients-10+%20Countries-1E90FF?style=for-the-badge"/>
+
 </p>
 
 ---
 
 # ⚡ Fun Fact  
-I’m building a microprocessor that increases **biogas production** —  
+We are building a mixed-signal microprocessor that increases **biogas production** —  
 **where silicon meets sustainability** 🌱⚡
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=00E5FF&section=footer"/>
+</p>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=00E5FF&section=footer"/>
