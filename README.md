@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=F37021&center=true&vCenter=true&width=900&lines=Bibin+Nandhyattu+Biji;ASIC+RTL+%26+UVM+DV+Physical+Design+Engineer;Automation,+Embbeded+System,+%26+Full+Stack+Software+Development;VLSI+%7C+AI+ML+%7C+FPGA+%7C+Generative+AI;Founder+of+Yarok14+Technologies;Building+Sustainable+Silicon+%26+AI+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E5FF&center=true&vCenter=true&width=1000&lines=Bibin+Nandhyattu+Biji;Senior+ASIC+RTL+%26+UVM+Engineer;FPGA+%7C+Physical+Design+%7C+AI%2FML+Systems;Founder+%E2%80%94+Yarok14+Technologies;Designing+Energy-Efficient+Silicon+Systems"/>
 </p>
 
 <!-- YAROK14 BANNER -->
@@ -10,51 +10,67 @@
 
 ---
 
-# ⚡ About Me
+## ⚡ Who I Am
 
-I’m **Bibin N.B**, founder of **Yarok14 Technologies**, working at the intersection of  
-**ASIC RTL Design, UVM Verification, FPGA Prototyping, AI/ML, IoT-SCADA, and Sky130 ASIC flows.**
+I’m **Bibin N. Biji** —  
+**Founder & Senior ASIC Engineer** at **Yarok14 Technologies**.
 
-I’m currently building the **Yarok-14 Mixed-Signal Microprocessor**, engineered for biomethane optimization, energy automation, and intelligent hardware-software co-design.
+I build **production-grade silicon systems** at the intersection of:
 
----
+- **ASIC RTL Design & UVM Verification**
+- **FPGA Prototyping → ASIC (Sky130)**
+- **Physical Design & STA awareness**
+- **AI/ML-assisted hardware optimization**
+- **IoT–SCADA & energy automation**
 
-# 🚀 Key Work & Innovations
-
-### 🔥 **Yarok-14 Mixed-Signal Microprocessor (Sky130 Ready)**
-- +51% power efficiency  
-- −36% area optimization  
-- CMOS TG-based ALU redesign  
-- ADC, DAC, SPI, UART, GPIO, Sensors  
-- Semi-custom mixed-signal blocks  
-- FPGA → ASIC → Sky130 flow
-
-### 🌱 **Biomethane Optimization System (IoT + AI + FPGA)**
-- +22% methane yield  
-- Real-time digester automation  
-- SCADA-style Flutter UI  
-- Python FastAPI backend  
-- AWS Cloud IoT integration  
-
-### 🧠 **AI/ML + Embedded Intelligence**
-- CNN/RNN/TensorFlow/PyTorch  
-- Edge AI for IoT control loops  
-- AI-accelerated RTL generation (LLM-RAG)  
-- Predictive analytics for biomethane systems  
-
-### 🔌 **AMBA CHI / AXI / APB / PCIe**
-- Req/Resp/Data channel modeling  
-- Cache-line + snoop behavior  
-- UVM environment with agent/driver/monitor/scoreboard  
-- Functional + code coverage closure  
+> **Mission:** Design silicon that improves real-world energy systems —  
+> where **AI meets hardware**, and **hardware meets sustainability**.
 
 ---
 
-# 🧰 Skills & Tools
+## 🚀 Flagship Work
+
+### 🔥 Yarok-14 Mixed-Signal Microprocessor (Sky130-Ready)
+- **+51% power efficiency**
+- **−36% area reduction**
+- Timing-clean, synthesis-ready RTL
+- CMOS Transmission-Gate ALU redesign
+- Integrated **ADC, DAC, SPI, UART, GPIO**
+- FPGA → ASIC → OpenLane / Sky130 flow
+
+---
+
+### 🌱 Biomethane Optimization System (Deployed Prototype)
+- **+22% methane yield**
+- Real-time digester automation
+- Flutter-based SCADA UI
+- Python FastAPI backend
+- Cloud-connected IoT monitoring
+
+---
+
+### 🧠 AI-Driven Hardware & Systems
+- CNN / RNN / TensorFlow / PyTorch
+- Edge-AI for real-time control loops
+- **LLM + RAG assisted RTL & UVM generation**
+- Predictive analytics for energy & industrial systems
+
+---
+
+### 🔌 SoC & Interconnect Expertise
+- **AXI / APB / CHI / PCIe**
+- Cache-line & snoop modeling
+- UVM agents, monitors, scoreboards
+- Functional + code coverage closure
+- CDC / timing-aware RTL practices
+
+---
+
+## 🧰 Skills Snapshot
 
 ### **VLSI / Hardware**
 <p>
-<img src="https://skillicons.dev/icons?i=verilog,raspberrypi,arduino"/>
+<img src="https://skillicons.dev/icons?i=verilog"/>
 <img src="https://img.shields.io/badge/SystemVerilog-0099cc?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/UVM-000000?style=for-the-badge"/>
 </p>
@@ -65,86 +81,66 @@ I’m currently building the **Yarok-14 Mixed-Signal Microprocessor**, engineere
 <img src="https://img.shields.io/badge/Intel%20Quartus-0071C5?style=for-the-badge"/>
 </p>
 
-### **ASIC / EDA**
+### **ASIC / PD / EDA**
 <p>
 <img src="https://img.shields.io/badge/OpenLane-6A0DAD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/KLayout-FF1493?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ngspice-008000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LTSpice-A60000?style=for-the-badge"/>
 </p>
 
-### **AI/ML & Software**
+### **AI / Software**
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,opencv,tensorflow,pytorch,git,docker,aws,linux,bash"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,git,docker,aws,linux"/>
 </p>
 
-### **Frontend / UI / Dev Tools**
+### **UI / Visualization**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,blender"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,figma"/>
 </p>
 
 ---
 
-# 🏷️ Badges
+## 🏷️ Professional Badges
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Yarok14Technologies&label=Profile+Views&color=00E5FF"/>
 <img src="https://img.shields.io/badge/Founder-Yarok14%20Technologies-00E5FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ASIC-RTL%20Engineer-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/UVM-Verification-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sky130-Ready-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sky130-ASIC%20Ready-success?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/bibin-n-biji-28a100337/  
-- Yarok14 (Company): https://www.linkedin.com/company/yarok14  
-- Instagram: https://www.instagram.com/yarok_14  
-- YouTube: https://www.youtube.com/channel/UCWmCcm1UlDJJfz0aB9B_a0A  
-- GitHub: https://github.com/Yarok14Technologies  
-- X/Twitter: https://x.com/BBiji34944  
-- Website: https://yarok14technologies.github.io/yarok14/
-
-
-![### QR Code ](https://github.com/Yarok14Technologies/Yarok14Technologies/blob/main/frame.png)
-
-
+- **GitHub (Org):** https://github.com/Yarok14Technologies  
+- **LinkedIn:** https://www.linkedin.com/in/bibin-n-biji-28a100337/  
+- **Company LinkedIn:** https://www.linkedin.com/company/yarok14  
+- **Website:** https://yarok14technologies.github.io/yarok14/  
+- **YouTube:** https://www.youtube.com/channel/UCWmCcm1UlDJJfz0aB9B_a0A  
 
 ---
 
-
-# 📊 Company Metrics & Highlights
+## 📊 Organization Highlights
 
 <p align="center">
-
-<!-- Total Repositories -->
 <img src="https://img.shields.io/badge/Active%20Repositories-40+-00E5FF?style=for-the-badge"/>
-
-<!-- Tech Stacks -->
-<img src="https://img.shields.io/badge/VLSI%20%7C%20ASIC%20%7C%20FPGA-Expertise-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML%20%2F%20DL-Solutions-00E5FF?style=for-the-badge"/>
-
-<!-- Sky130 -->
-<img src="https://img.shields.io/badge/Sky130-ASIC%20Ready-00E5FF?style=for-the-badge"/>
-
-<!-- Clients -->
-<img src="https://img.shields.io/badge/Global%20Clients-10+%20Countries-1E90FF?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/ASIC%20%7C%20FPGA%20%7C%20AI-Systems-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sky130-Production%20Ready-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Energy%20%26%20Sustainability-Focused-1E90FF?style=for-the-badge"/>
 </p>
 
 ---
 
-# ⚡ Fun Fact  
-We are building a mixed-signal microprocessor that increases **biogas production** —  
-**where silicon meets sustainability** 🌱⚡
+## ⚡ Fun Fact
+
+We’re building **mixed-signal silicon** that directly increases  
+**renewable biogas production** 🌱⚡  
+Not a demo — a real system.
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=00E5FF&section=footer"/>
 </p>
-
----
-
