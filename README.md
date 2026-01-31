@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E5FF&center=true&vCenter=true&width=1200&lines=Bibin+Nandhyattu+Biji;Senior+ASIC+RTL+%26+UVM+Engineer;SoC+Architecture+%7C+FPGA+%7C+Physical+Design;DFT+Architecture+%7C+Design+ Verification+%7C+Formal+Verification;AI%2FML+%7C+Data+Science+%7C+Analytics+Systems;Founder+%E2%80%94+Yarok14+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E5FF&center=true&vCenter=true&width=1200&lines=Bibin+Nandhyattu+Biji;Senior+ASIC+RTL+%26+UVM+Engineer;SoC+Architecture+%7C+FPGA+%7C+Physical+Design;DFT+Architecture+%7C+Design+Verification+%7C+Formal+Verification;AI%2FML+%7C+Data+Science+%7C+Analytics+Systems;Founder+%E2%80%94+Yarok-14+Technologies"/>
 </p>
 
 <!-- YAROK14 BANNER -->
