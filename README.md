@@ -1,7 +1,27 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E5FF&center=true&vCenter=true&width=1200&lines=Bibin+Nandhyattu+Biji;Senior+ASIC+RTL+%26+UVM+Engineer;SoC+Architecture+%7C+FPGA+%7C+Physical+Design;DFT+Architecture+%7C+Design+Verification+%7C+Formal+Verification;AI%2FML+%7C+Data+Science+%7C+Analytics+Systems;Founder+%E2%80%94+Yarok-14+Technologies"/>
+ <p align="center">
+
+  <!-- Violet -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=8F00FF&center=true&vCenter=true&width=1200&lines=Bibin+Nandhyattu+Biji"/>
+
+  <!-- Indigo -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4B0082&center=true&vCenter=true&width=1200&lines=Senior+ASIC+RTL+%26+UVM+Engineer"/>
+
+  <!-- Blue -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00E5FF&center=true&vCenter=true&width=1200&lines=SoC+Architecture+%7C+FPGA+%7C+Physical+Design"/>
+
+  <!-- Green -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C853&center=true&vCenter=true&width=1200&lines=DFT+Architecture+%7C+Design+Verification+%7C+Formal+Verification"/>
+
+  <!-- Yellow -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFD600&center=true&vCenter=true&width=1200&lines=AI%2FML+%7C+Data+Science+%7C+Analytics+Systems"/>
+
+  <!-- Orange -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF9100&center=true&vCenter=true&width=1200&lines=Founder+%E2%80%94+Yarok-14+Technologies"/>
+
 </p>
+
 
 <!-- YAROK14 BANNER -->
 <p align="center">
