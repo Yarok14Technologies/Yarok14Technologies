@@ -5,7 +5,7 @@
 
 <!-- YAROK14 BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00E5FF&text=Yarok14%20Technologies&fontColor=000000&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF9933&text=Yarok14%20Technologies&fontColor=000000&section=header"/>
 </p>
 
 ---
