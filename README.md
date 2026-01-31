@@ -11,13 +11,17 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FFD600&center=true&vCenter=true&width=1200&pause=3000&lines=AI%2FML+%7C+Data+Science+%7C+Analytics+Systems"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF9100&center=true&vCenter=true&width=1200&pause=3000&lines=Biomethane+Enhancement+Technology+%7C+Solar+Power+%7C+Robotics+%26+Drone+Systems"/>
+  <!-- Energy + Mechatronics -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF9100&center=true&vCenter=true&width=1200&pause=3000&lines=Biomethane+Enhancement+Technology+%7C+Solar+Power+%7C+Sensors+%26+Actuators"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF1744&center=true&vCenter=true&width=1200&pause=3000&lines=Sustainable+Development+%7C+Defense+%7C+Cybersecurity+%7C+Agro-Industry"/>
+  <!-- Defense + Security + Robotics -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF1744&center=true&vCenter=true&width=1200&pause=3000&lines=Robotics+%26+Drone+Systems+%7C+Defense+%7C+Cybersecurity+%7C+Agro-Industry"/>
 
+  <!-- Founder -->
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF6D00&center=true&vCenter=true&width=1200&pause=3000&lines=Founder+%E2%80%94+Yarok-14+Technologies"/>
 
 </p>
+>
 
 
 <!-- YAROK14 BANNER -->
