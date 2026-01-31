@@ -1,8 +1,22 @@
-<!-- ANIMATED HEADER -->
+<!-- ANIMATED HEADER : VIBGYOR (Pseudo-Series) -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=26&color=00E5FF&center=true&vCenter=true&width=1200&lines=Bibin+Nandhyattu+Biji;Senior+ASIC+RTL+%26+UVM+Engineer;SoC+Architecture+%7C+FPGA+%7C+Physical+Design;DFT+Architecture+%7C+Design+Verification+%7C+Formal+Verification;AI%2FML+%7C+Data+Science+%7C+Analytics+Systems;Biomethane+Enhancement+Technology+%7C+Solar+Power+%7C+Robotics+%26+Drone+Systems;Sustainable+Development+%7C+Defense+%7C+Cybersecurity+%7C+Agro-Industry;Founder+%E2%80%94+Yarok-14+Technologies"
-  />
+
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=8F00FF&center=true&vCenter=true&width=1200&pause=3000&lines=Bibin+Nandhyattu+Biji"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4B0082&center=true&vCenter=true&width=1200&pause=3000&lines=Senior+ASIC+RTL+%26+UVM+Engineer"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E5FF&center=true&vCenter=true&width=1200&pause=3000&lines=SoC+Architecture+%7C+FPGA+%7C+Physical+Design"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00C853&center=true&vCenter=true&width=1200&pause=3000&lines=DFT+Architecture+%7C+Design+Verification+%7C+Formal+Verification"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FFD600&center=true&vCenter=true&width=1200&pause=3000&lines=AI%2FML+%7C+Data+Science+%7C+Analytics+Systems"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF9100&center=true&vCenter=true&width=1200&pause=3000&lines=Biomethane+Enhancement+Technology+%7C+Solar+Power+%7C+Robotics+%26+Drone+Systems"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF1744&center=true&vCenter=true&width=1200&pause=3000&lines=Sustainable+Development+%7C+Defense+%7C+Cybersecurity+%7C+Agro-Industry"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF6D00&center=true&vCenter=true&width=1200&pause=3000&lines=Founder+%E2%80%94+Yarok-14+Technologies"/>
+
 </p>
 
 
