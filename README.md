@@ -218,26 +218,36 @@ I build **end-to-end intelligent systems** spanning:
   </a>
 </p>
 
-<!-- Yearly Activity Graph -->
+<h3 align="center">
+  📅 Year: <img src="https://img.shields.io/date/now/year?label=&style=flat&color=blue"/>
+</h3>
+
 <p align="center">
   <a href="https://github.com/Yarok14Technologies">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yarok14Technologies&theme=github-dark&area=true"/>
   </a>
 </p>
 
-<!-- Monthly Activity Graph -->
+<h3 align="center">
+  📆 Month: <img src="https://img.shields.io/date/now/month?label=&style=flat&color=purple"/>
+</h3>
+
 <p align="center">
   <a href="https://github.com/Yarok14Technologies">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yarok14Technologies&theme=tokyo-night&custom_title=Monthly%20Activity"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yarok14Technologies&theme=tokyo-night"/>
   </a>
 </p>
 
-<!-- Daily Activity Graph -->
+<h3 align="center">
+  📅 Day: <img src="https://img.shields.io/date/now/day?label=&style=flat&color=green"/>
+</h3>
+
 <p align="center">
   <a href="https://github.com/Yarok14Technologies">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yarok14Technologies&theme=dracula&bg_color=0d1117"/>
   </a>
 </p>
+
 
 
 ---
