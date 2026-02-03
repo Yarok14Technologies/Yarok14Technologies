@@ -1,9 +1,9 @@
-<!-- ANIMATED WELCOME HEADER (New Feature Preserved) -->
+<!-- ANIMATED WELCOME HEADER (Feature preserved & adapted) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Yarok14+Technologies!&font=Fira%20Code&center=true&width=480&height=50">
 </p>
 
-<!-- ANIMATED HEADER : VIBGYOR (Your Original — Unchanged) -->
+<!-- ANIMATED HEADER : VIBGYOR (Your original — kept intact) -->
 <p align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=8F00FF&center=true&vCenter=true&width=1200&pause=3000&lines=Bibin+Nandhyattu+Biji"/>
@@ -34,15 +34,15 @@
 
 ---
 
-## ⚡ Professional Identity
-
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey">, I'm Bibin N. Biji
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey">, I'm **Bibin N. Biji**
 </h1>
 
 <h3 align="center">
   Founder • Senior ASIC RTL & UVM Engineer • Yarok-14 Technologies
 </h3>
+
+## ⚡ Professional Identity
 
 I build **end-to-end intelligent systems** spanning:
 
@@ -68,8 +68,6 @@ I build **end-to-end intelligent systems** spanning:
 - Integrated **ADC, DAC, SPI, UART, CAN, GPIO**  
 - Designed for real-time industrial workloads  
 
----
-
 ### 🌱 Biomethane Optimization Platform
 - **+22% methane yield improvement**
 - Closed-loop digester automation  
@@ -81,13 +79,13 @@ I build **end-to-end intelligent systems** spanning:
 
 ## 🧠 AI / ML & Intelligent Systems
 
-### Machine Learning & Deep Learning
+**Machine Learning & Deep Learning**
 - Regression, classification & clustering  
 - CNN, RNN, LSTM, Transformers  
 - Feature engineering & model evaluation  
 - Model accuracy, drift & performance tracking  
 
-### AI for Engineering & Automation
+**AI for Engineering & Automation**
 - AI-assisted micro-architecture tuning  
 - Predictive power, performance & yield analysis  
 - Anomaly detection in industrial sensor data  
@@ -97,19 +95,19 @@ I build **end-to-end intelligent systems** spanning:
 
 ## 📊 Data Science & Analytics Expertise
 
-### Data Engineering & Processing
+**Data Engineering & Processing**
 - Structured & semi-structured data pipelines  
 - Sensor, time-series & operational data  
 - ETL workflows & data validation  
 - SQL-based analytics & aggregation  
 
-### Data Analysis & Visualization
+**Data Analysis & Visualization**
 - Exploratory Data Analysis (EDA)  
 - KPI definition & metric tracking  
 - Trend analysis & forecasting  
 - Dashboards for technical & business stakeholders  
 
-### Business & Operational Analytics
+**Business & Operational Analytics**
 - Cost, efficiency & ROI modeling  
 - Process optimization & bottleneck analysis  
 - Decision-support analytics  
@@ -119,20 +117,20 @@ I build **end-to-end intelligent systems** spanning:
 
 ## 🔌 Protocols, Interfaces & Systems
 
-### SoC & High-Speed Protocols
+**SoC & High-Speed Protocols**
 - AXI4 / AXI4-Lite / AXI-Stream  
 - APB / AHB  
 - AMBA CHI (Req / Resp / Data)  
 - PCIe (interface-level)  
 - DDR4 / DDR5 (controller-aware design)  
 
-### Cache & Memory Systems
+**Cache & Memory Systems**
 - MESI cache coherence  
 - Multi-level cache hierarchies  
 - SRAM controllers & arbitration  
 - Cache-line & snoop modeling  
 
-### Peripheral & Industrial Interfaces
+**Peripheral & Industrial Interfaces**
 - SPI, UART, CAN Bus, I²C  
 - GPIO, Ethernet (system integration)  
 - USB 3.2 (Host / Device, PIPE)  
@@ -162,7 +160,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🚀 Languages & Tools (Your Stack — Styled Like Their Feature)
+## 🚀 Languages & Tools (Merged feature — styled bar)
 
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
@@ -176,7 +174,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 📈 Activity Graph (Merged Feature)
+## 📈 Activity Graph (Merged feature)
 
 <p align="center">
   <a href="https://github.com/Yarok14Technologies">
@@ -186,7 +184,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## ❤️ Views & Followers (Merged Feature)
+## ❤️ Views & Followers (Merged feature)
 
 <p align="center">
   <a href="https://github.com/Yarok14Technologies">
@@ -228,3 +226,4 @@ I build **end-to-end intelligent systems** spanning:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=00E5FF&section=footer"/>
 </p>
+
