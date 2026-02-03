@@ -252,9 +252,76 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🧰 Skills Snapshot
+## 🚀 Languages, Tools & Skills
 
-### **ASIC / RTL / Verification**
+### 🌐 **Web & Full-Stack**
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+</a>
+<a href="https://redux.js.org" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+</a>
+</p>
+
+### ⚙️ **Backend & Databases**
+<p align="left">
+<a href="https://nodejs.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+</a>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+</a>
+<a href="https://www.mongodb.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+</a>
+</p>
+
+### 🛍️ **E-commerce & Dev Tools**
+<p align="left">
+<a href="https://shopify.com" target="_blank">
+  <img src="https://img.icons8.com/ios/512/shopify.png" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+</a>
+<a href="https://postman.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
+</a>
+<a href="https://jwt.io" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" height="40"/>
+</a>
+</p>
+
+---
+
+## 🧰 **Skills Snapshot**
+
+### 🔹 **ASIC / RTL / Verification**
 <p>
 <img src="https://skillicons.dev/icons?i=verilog"/>
 <img src="https://img.shields.io/badge/SystemVerilog-0099cc?style=for-the-badge"/>
@@ -262,28 +329,54 @@ I build **end-to-end intelligent systems** spanning:
 <img src="https://img.shields.io/badge/SVA-Assertions-orange?style=for-the-badge"/>
 </p>
 
-### **FPGA & Bring-Up**
+### 🔹 **Design for Test (DFT)**
+<p>
+<img src="https://img.shields.io/badge/Scan-Design-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ATPG-Patterns-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JTAG-Boundary%20Scan-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MBIST%20%7C%20LBIST-Testing-0A66C2?style=for-the-badge"/>
+</p>
+
+### 🔹 **Physical Design Engineering**
+<p>
+<img src="https://img.shields.io/badge/Floorplanning-0071C5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Placement%20%26%20Routing-0071C5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CTS%20%7C%20STA-0071C5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DRC%20%7C%20LVS-0071C5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Integrity-0071C5?style=for-the-badge"/>
+</p>
+
+### 🔹 **Design & Formal Verification**
+<p>
+<img src="https://img.shields.io/badge/Formal-Equivalence%20Checking-0099cc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Property%20Checking-0099cc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Constrained%20Proof-0099cc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Checking-0099cc?style=for-the-badge"/>
+</p>
+
+### 🔹 **FPGA & Bring-Up**
 <p>
 <img src="https://img.shields.io/badge/FPGA-Prototyping-0071C5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/System-Bring--Up-blue?style=for-the-badge"/>
 </p>
 
-### **AI / ML / Data Science**
+### 🔹 **AI / ML / Data Science**
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
 <img src="https://img.shields.io/badge/Data%20Science-EDA%20%7C%20ML-00E5FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Analytics-KPIs%20%7C%20Forecasting-1E90FF?style=for-the-badge"/>
 </p>
 
-### **Software, Automation & Cloud**
+### 🔹 **Software, Automation & Cloud**
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,sql,git,docker,aws,linux"/>
 </p>
 
-### **UI, Dashboards & Visualization**
+### 🔹 **UI, Dashboards & Visualization**
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,figma"/>
 </p>
+
 
 ---
 
