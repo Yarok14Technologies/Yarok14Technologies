@@ -35,7 +35,7 @@
 ---
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey">, I'm **Bibin N. Biji**
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey">, I'm Bibin N. Biji
 </h1>
 
 <h3 align="center">
