@@ -162,8 +162,8 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-# 🛠️ **FULL TECH STACK (ALL FEATURES INCLUDED)**  
-*(This replaces the minimal icon bar with a complete, industry-grade stack)*
+# 🛠️ **FULL TECH STACK **  
+
 
 ## 🔹 ASIC / RTL / DV / FV (Commercial + Open)
 - **HDL:** SystemVerilog, Verilog  
