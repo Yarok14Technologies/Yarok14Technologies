@@ -1,9 +1,9 @@
-<!-- ANIMATED WELCOME HEADER (Feature preserved & adapted) -->
+<!-- ===== FEATURE 1: ANIMATED WELCOME HEADER (Preserved & adapted) ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Yarok14+Technologies!&font=Fira%20Code&center=true&width=480&height=50">
 </p>
 
-<!-- ANIMATED HEADER : VIBGYOR (Your original — kept intact) -->
+<!-- ===== FEATURE 2: YOUR ORIGINAL VIBGYOR ANIMATED HEADER (UNCHANGED) ===== -->
 <p align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=8F00FF&center=true&vCenter=true&width=1200&pause=3000&lines=Bibin+Nandhyattu+Biji"/>
@@ -27,7 +27,7 @@
 
 </p>
 
-<!-- YAROK14 BANNER -->
+<!-- ===== FEATURE 3: CAPSULE BANNER (UNCHANGED) ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF9933&text=Yarok14%20Technologies&fontColor=000000&section=header"/>
 </p>
@@ -42,7 +42,9 @@
   Founder • Senior ASIC RTL & UVM Engineer • Yarok-14 Technologies
 </h3>
 
-## ⚡ Professional Identity
+---
+
+## ⚡ Professional Identity  (from your file — intact)
 
 I build **end-to-end intelligent systems** spanning:
 
@@ -58,7 +60,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🚀 Core Programs & Impact
+## 🚀 Core Programs & Impact  (your content — preserved)
 
 ### 🔥 Yarok-14 Mixed-Signal Microprocessor
 - **+51% power efficiency**
@@ -77,7 +79,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🧠 AI / ML & Intelligent Systems
+## 🧠 AI / ML & Intelligent Systems  (your content — preserved)
 
 **Machine Learning & Deep Learning**
 - Regression, classification & clustering  
@@ -93,7 +95,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 📊 Data Science & Analytics Expertise
+## 📊 Data Science & Analytics Expertise  (your content — preserved)
 
 **Data Engineering & Processing**
 - Structured & semi-structured data pipelines  
@@ -115,7 +117,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🔌 Protocols, Interfaces & Systems
+## 🔌 Protocols, Interfaces & Systems  (your content — preserved)
 
 **SoC & High-Speed Protocols**
 - AXI4 / AXI4-Lite / AXI-Stream  
@@ -137,7 +139,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🧪 Verification, Quality & Reliability
+## 🧪 Verification, Quality & Reliability  (your content — preserved)
 
 - SystemVerilog & UVM environments  
 - Functional, code & assertion coverage  
@@ -148,7 +150,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🏗️ Physical Design & Timing Awareness
+## 🏗️ Physical Design & Timing Awareness  (your content — preserved)
 
 - Floorplanning & block-level PD concepts  
 - CTS: skew, latency, balance  
@@ -160,21 +162,55 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🚀 Languages & Tools (Merged feature — styled bar)
+# 🛠️ **FULL TECH STACK (ALL FEATURES INCLUDED)**  
+*(This replaces the minimal icon bar with a complete, industry-grade stack)*
 
-<p align="left">
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vivado/vivado-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/linux.png"/>
-</p>
+## 🔹 ASIC / RTL / DV / FV (Commercial + Open)
+- **HDL:** SystemVerilog, Verilog  
+- **DV:** UVM, SVA, Coverage, Constrained Random  
+- **Formal:** JasperGold / VC Formal / SymbiYosys  
+- **Simulators:** VCS, Questa, Xcelium, Verilator  
+- **Lint/CDC/RDC:** SpyGlass, Verilator, Synopsys CDC  
+- **Synthesis:** Synopsys DC, Fusion Compiler  
+- **Low Power:** UPF, SpyGlass LP, PowerArtist  
+- **DFT:** Synopsys DFT Compiler, Tessent  
+
+## 🔹 FPGA & Bring-Up
+- **Tools:** AMD Xilinx Vivado, Intel Quartus  
+- **Boards:** Zynq, UltraScale+, Artix-7  
+- **Debug:** ILA, ChipScope, JTAG, UART console  
+
+## 🔹 Physical Design (Commercial)
+- **Place & Route:** Innovus, ICC2  
+- **Timing:** PrimeTime, Tempus  
+- **Signal Integrity:** StarRC, RedHawk  
+- **Power/IR:** Voltus, RedHawk  
+- **DRC/LVS:** Calibre, IC Validator  
+
+## 🔹 Embedded & IoT
+- **MCUs:** ESP8266, MSP430  
+- **Protocols:** SPI, UART, CAN, I²C  
+- **RTOS:** FreeRTOS (as needed)  
+- **SCADA:** Flutter-based dashboards  
+
+## 🔹 AI / ML / Data Science
+- **Languages:** Python  
+- **Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn  
+- **Analytics:** Pandas, NumPy, Matplotlib  
+- **MLOps:** Model tracking, drift detection  
+
+## 🔹 Cloud & DevOps
+- **Cloud:** AWS (S3, EC2, IoT Core)  
+- **Backend:** Python APIs  
+- **Containers:** Docker  
+- **Version Control:** Git, GitHub  
+
+## 🔹 Frontend / Visualization
+- **UI:** HTML, CSS, JavaScript, React, Flutter, Figma  
 
 ---
 
-## 📈 Activity Graph (Merged feature)
+## 📈 Activity Graph  (feature preserved)
 
 <p align="center">
   <a href="https://github.com/Yarok14Technologies">
@@ -184,7 +220,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## ❤️ Views & Followers (Merged feature)
+## ❤️ Views & Followers  (feature preserved)
 
 <p align="center">
   <a href="https://github.com/Yarok14Technologies">
@@ -195,7 +231,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect  (your content — unchanged)
 
 - **GitHub (Organization):** https://github.com/Yarok14Technologies  
 - **LinkedIn:** https://www.linkedin.com/in/bibin-n-biji-28a100337/  
@@ -205,7 +241,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 📊 Organization Snapshot
+## 📊 Organization Snapshot  (your content — unchanged)
 
 <p align="center">
 <img src="https://img.shields.io/badge/Active%20Repositories-40+-00E5FF?style=for-the-badge"/>
@@ -216,7 +252,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## ⚡ Engineering Philosophy
+## ⚡ Engineering Philosophy  (your content — unchanged)
 
 > *Great systems are not just designed —*  
 > *they are measured, analyzed, optimized, and trusted.*
@@ -226,4 +262,3 @@ I build **end-to-end intelligent systems** spanning:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=00E5FF&section=footer"/>
 </p>
-
