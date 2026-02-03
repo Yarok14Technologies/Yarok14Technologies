@@ -252,6 +252,53 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
+## 🧰 Skills Snapshot
+
+### **ASIC / RTL / Verification**
+<p>
+<img src="https://skillicons.dev/icons?i=verilog"/>
+<img src="https://img.shields.io/badge/SystemVerilog-0099cc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UVM-Verification-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SVA-Assertions-orange?style=for-the-badge"/>
+</p>
+
+### **FPGA & Bring-Up**
+<p>
+<img src="https://img.shields.io/badge/FPGA-Prototyping-0071C5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System-Bring--Up-blue?style=for-the-badge"/>
+</p>
+
+### **AI / ML / Data Science**
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+<img src="https://img.shields.io/badge/Data%20Science-EDA%20%7C%20ML-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Analytics-KPIs%20%7C%20Forecasting-1E90FF?style=for-the-badge"/>
+</p>
+
+### **Software, Automation & Cloud**
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,sql,git,docker,aws,linux"/>
+</p>
+
+### **UI, Dashboards & Visualization**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,figma"/>
+</p>
+
+---
+
+## 🏷️ Professional Positioning
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=Yarok14Technologies&label=Profile+Views&color=00E5FF"/>
+<img src="https://img.shields.io/badge/Founder-Yarok14%20Technologies-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Senior-Systems%20Engineer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VLSI%20%2B%20AI-End--to--End-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Analytics-Decision%20Driven-success?style=for-the-badge"/>
+</p>
+
+---
+
 ## ⚡ Engineering Philosophy  (your content — unchanged)
 
 > *Great systems are not just designed —*  
