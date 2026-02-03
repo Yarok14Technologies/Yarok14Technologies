@@ -233,9 +233,10 @@ I build **end-to-end intelligent systems** spanning:
 
 ## 🌐 Connect  
 
+- **Instagram:** https://www.instagram.com/yarok14.technology/  
 - **GitHub (Organization):** https://github.com/Yarok14Technologies  
-- **LinkedIn:** https://www.linkedin.com/in/bibin-n-biji-28a100337/  
-- **Company:** https://www.linkedin.com/company/yarok14  
+- **LinkedIn (Personal):** https://www.linkedin.com/in/bibin-n-biji-28a100337/  
+- **LinkedIn (Company):** https://www.linkedin.com/company/yarok14  
 - **Website:** https://yarok14technologies.github.io/yarok14/  
 - **YouTube:** https://www.youtube.com/channel/UCWmCcm1UlDJJfz0aB9B_a0A  
 
