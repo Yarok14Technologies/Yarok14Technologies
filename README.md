@@ -1,4 +1,9 @@
-<!-- ANIMATED HEADER : VIBGYOR (Pseudo-Series) -->
+<!-- ANIMATED WELCOME HEADER (New Feature Preserved) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Yarok14+Technologies!&font=Fira%20Code&center=true&width=480&height=50">
+</p>
+
+<!-- ANIMATED HEADER : VIBGYOR (Your Original — Unchanged) -->
 <p align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=8F00FF&center=true&vCenter=true&width=1200&pause=3000&lines=Bibin+Nandhyattu+Biji"/>
@@ -21,8 +26,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF6D00&center=true&vCenter=true&width=1200&pause=3000&lines=Founder+%E2%80%94+Yarok-14+Technologies"/>
 
 </p>
->
-
 
 <!-- YAROK14 BANNER -->
 <p align="center">
@@ -33,8 +36,13 @@
 
 ## ⚡ Professional Identity
 
-I’m **Bibin N. Biji** —  
-**Founder & Senior Engineer** at **Yarok14 Technologies**.
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey">, I'm **Bibin N. Biji**
+</h1>
+
+<h3 align="center">
+  Founder • Senior ASIC RTL & UVM Engineer • Yarok-14 Technologies
+</h3>
 
 I build **end-to-end intelligent systems** spanning:
 
@@ -55,148 +63,136 @@ I build **end-to-end intelligent systems** spanning:
 ### 🔥 Yarok-14 Mixed-Signal Microprocessor
 - **+51% power efficiency**
 - **−36% area optimization**
-- Timing-aware, synthesis-clean RTL
-- CMOS Transmission-Gate ALU redesign
-- Integrated **ADC, DAC, SPI, UART, CAN, GPIO**
-- Designed for real-time industrial workloads
+- Timing-aware, synthesis-clean RTL  
+- CMOS Transmission-Gate ALU redesign  
+- Integrated **ADC, DAC, SPI, UART, CAN, GPIO**  
+- Designed for real-time industrial workloads  
 
 ---
 
 ### 🌱 Biomethane Optimization Platform
 - **+22% methane yield improvement**
-- Closed-loop digester automation
-- Sensor-driven control pipelines
-- Analytics-backed decision support
-- Field-deployed, reliability-first design
+- Closed-loop digester automation  
+- Sensor-driven control pipelines  
+- Analytics-backed decision support  
+- Field-deployed, reliability-first design  
 
 ---
 
-### 🧠 AI / ML & Intelligent Systems
+## 🧠 AI / ML & Intelligent Systems
 
-#### Machine Learning & Deep Learning
-- Regression, classification & clustering
-- CNN, RNN, LSTM, Transformers
-- Feature engineering & model evaluation
-- Model accuracy, drift & performance tracking
+### Machine Learning & Deep Learning
+- Regression, classification & clustering  
+- CNN, RNN, LSTM, Transformers  
+- Feature engineering & model evaluation  
+- Model accuracy, drift & performance tracking  
 
-#### AI for Engineering & Automation
-- AI-assisted micro-architecture tuning
-- Predictive power, performance & yield analysis
-- Anomaly detection in industrial sensor data
-- Workload-driven hardware optimization
+### AI for Engineering & Automation
+- AI-assisted micro-architecture tuning  
+- Predictive power, performance & yield analysis  
+- Anomaly detection in industrial sensor data  
+- Workload-driven hardware optimization  
 
 ---
 
 ## 📊 Data Science & Analytics Expertise
 
-### **Data Engineering & Processing**
-- Structured & semi-structured data pipelines
-- Sensor, time-series & operational data
-- ETL workflows & data validation
-- SQL-based analytics & aggregation
+### Data Engineering & Processing
+- Structured & semi-structured data pipelines  
+- Sensor, time-series & operational data  
+- ETL workflows & data validation  
+- SQL-based analytics & aggregation  
 
-### **Data Analysis & Visualization**
-- Exploratory Data Analysis (EDA)
-- KPI definition & metric tracking
-- Trend analysis & forecasting
-- Dashboards for technical & business stakeholders
+### Data Analysis & Visualization
+- Exploratory Data Analysis (EDA)  
+- KPI definition & metric tracking  
+- Trend analysis & forecasting  
+- Dashboards for technical & business stakeholders  
 
-### **Business & Operational Analytics**
-- Cost, efficiency & ROI modeling
-- Process optimization & bottleneck analysis
-- Decision-support analytics
-- Translating technical metrics into business impact
+### Business & Operational Analytics
+- Cost, efficiency & ROI modeling  
+- Process optimization & bottleneck analysis  
+- Decision-support analytics  
+- Translating technical metrics into business impact  
 
 ---
 
-## 🔌 Protocols, Interfaces & Systems (Resume-Aligned)
+## 🔌 Protocols, Interfaces & Systems
 
-### **SoC & High-Speed Protocols**
-- AXI4 / AXI4-Lite / AXI-Stream
-- APB / AHB
-- AMBA CHI (Req / Resp / Data)
-- PCIe (interface-level)
-- DDR4 / DDR5 (controller-aware design)
+### SoC & High-Speed Protocols
+- AXI4 / AXI4-Lite / AXI-Stream  
+- APB / AHB  
+- AMBA CHI (Req / Resp / Data)  
+- PCIe (interface-level)  
+- DDR4 / DDR5 (controller-aware design)  
 
-### **Cache & Memory Systems**
-- MESI cache coherence
-- Multi-level cache hierarchies
-- SRAM controllers & arbitration
-- Cache-line & snoop modeling
+### Cache & Memory Systems
+- MESI cache coherence  
+- Multi-level cache hierarchies  
+- SRAM controllers & arbitration  
+- Cache-line & snoop modeling  
 
-### **Peripheral & Industrial Interfaces**
-- SPI, UART, CAN Bus, I²C
-- GPIO, Ethernet (system integration)
-- USB 3.2 (Host / Device, PIPE)
+### Peripheral & Industrial Interfaces
+- SPI, UART, CAN Bus, I²C  
+- GPIO, Ethernet (system integration)  
+- USB 3.2 (Host / Device, PIPE)  
 
 ---
 
 ## 🧪 Verification, Quality & Reliability
 
-- SystemVerilog & UVM environments
-- Functional, code & assertion coverage
-- SVA-based protocol checking
-- CDC / RDC awareness
-- Root-cause debug & closure
-- Reliability-focused design practices
+- SystemVerilog & UVM environments  
+- Functional, code & assertion coverage  
+- SVA-based protocol checking  
+- CDC / RDC awareness  
+- Root-cause debug & closure  
+- Reliability-focused design practices  
 
 ---
 
 ## 🏗️ Physical Design & Timing Awareness
 
-- Floorplanning & block-level PD concepts
-- CTS: skew, latency, balance
-- Setup / Hold closure
-- ECO-driven timing fixes
-- MMMC, OCV / AOCV / POCV
-- IR-drop & EM awareness
-- Low-power intent (UPF-aware RTL)
+- Floorplanning & block-level PD concepts  
+- CTS: skew, latency, balance  
+- Setup / Hold closure  
+- ECO-driven timing fixes  
+- MMMC, OCV / AOCV / POCV  
+- IR-drop & EM awareness  
+- Low-power intent (UPF-aware RTL)  
 
 ---
 
-## 🧰 Skills Snapshot
+## 🚀 Languages & Tools (Your Stack — Styled Like Their Feature)
 
-### **ASIC / RTL / Verification**
-<p>
-<img src="https://skillicons.dev/icons?i=verilog"/>
-<img src="https://img.shields.io/badge/SystemVerilog-0099cc?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UVM-Verification-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SVA-Assertions-orange?style=for-the-badge"/>
-</p>
-
-### **FPGA & Bring-Up**
-<p>
-<img src="https://img.shields.io/badge/FPGA-Prototyping-0071C5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System-Bring--Up-blue?style=for-the-badge"/>
-</p>
-
-### **AI / ML / Data Science**
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-<img src="https://img.shields.io/badge/Data%20Science-EDA%20%7C%20ML-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Analytics-KPIs%20%7C%20Forecasting-1E90FF?style=for-the-badge"/>
-</p>
-
-### **Software, Automation & Cloud**
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,sql,git,docker,aws,linux"/>
-</p>
-
-### **UI, Dashboards & Visualization**
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,figma"/>
+<p align="left">
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vivado/vivado-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/linux.png"/>
 </p>
 
 ---
 
-## 🏷️ Professional Positioning
+## 📈 Activity Graph (Merged Feature)
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Yarok14Technologies&label=Profile+Views&color=00E5FF"/>
-<img src="https://img.shields.io/badge/Founder-Yarok14%20Technologies-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Senior-Systems%20Engineer-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VLSI%20%2B%20AI-End--to--End-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Analytics-Decision%20Driven-success?style=for-the-badge"/>
+<p align="center">
+  <a href="https://github.com/Yarok14Technologies">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yarok14Technologies&theme=react-dark"/>
+  </a>
+</p>
+
+---
+
+## ❤️ Views & Followers (Merged Feature)
+
+<p align="center">
+  <a href="https://github.com/Yarok14Technologies">
+    <img src="https://komarev.com/ghpvc/?username=Yarok14Technologies&label=Profile+Views"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/Yarok14Technologies?label=Followers&style=social"/>
 </p>
 
 ---
