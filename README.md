@@ -162,7 +162,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-# 🛠️ **FULL TECH STACK **  
+# 🛠️ ** FULL TECH STACK **  
 
 
 ## 🔹 ASIC / RTL / DV / FV (Commercial + Open)
