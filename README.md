@@ -44,7 +44,7 @@
 
 ---
 
-## ⚡ Professional Identity  (from your file — intact)
+## ⚡ Professional Identity  
 
 I build **end-to-end intelligent systems** spanning:
 
@@ -60,7 +60,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🚀 Core Programs & Impact  (your content — preserved)
+## 🚀 Core Programs & Impact  
 
 ### 🔥 Yarok-14 Mixed-Signal Microprocessor
 - **+51% power efficiency**
@@ -79,7 +79,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🧠 AI / ML & Intelligent Systems  (your content — preserved)
+## 🧠 AI / ML & Intelligent Systems 
 
 **Machine Learning & Deep Learning**
 - Regression, classification & clustering  
@@ -95,7 +95,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 📊 Data Science & Analytics Expertise  (your content — preserved)
+## 📊 Data Science & Analytics Expertise 
 
 **Data Engineering & Processing**
 - Structured & semi-structured data pipelines  
@@ -117,7 +117,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🔌 Protocols, Interfaces & Systems  (your content — preserved)
+## 🔌 Protocols, Interfaces & Systems  
 
 **SoC & High-Speed Protocols**
 - AXI4 / AXI4-Lite / AXI-Stream  
@@ -139,7 +139,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🧪 Verification, Quality & Reliability  (your content — preserved)
+## 🧪 Verification, Quality & Reliability 
 
 - SystemVerilog & UVM environments  
 - Functional, code & assertion coverage  
@@ -150,7 +150,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🏗️ Physical Design & Timing Awareness  (your content — preserved)
+## 🏗️ Physical Design & Timing Awareness 
 
 - Floorplanning & block-level PD concepts  
 - CTS: skew, latency, balance  
@@ -210,7 +210,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 📈 Activity Graph  (feature preserved)
+## 📈 Activity Graph  
 
 <p align="center">
   <a href="https://github.com/Yarok14Technologies">
@@ -220,7 +220,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## ❤️ Views & Followers  (feature preserved)
+## ❤️ Views & Followers 
 
 <p align="center">
   <a href="https://github.com/Yarok14Technologies">
@@ -231,7 +231,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 🌐 Connect  (your content — unchanged)
+## 🌐 Connect  
 
 - **GitHub (Organization):** https://github.com/Yarok14Technologies  
 - **LinkedIn:** https://www.linkedin.com/in/bibin-n-biji-28a100337/  
@@ -241,7 +241,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## 📊 Organization Snapshot  (your content — unchanged)
+## 📊 Organization Snapshot 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Active%20Repositories-40+-00E5FF?style=for-the-badge"/>
@@ -299,7 +299,7 @@ I build **end-to-end intelligent systems** spanning:
 
 ---
 
-## ⚡ Engineering Philosophy  (your content — unchanged)
+## ⚡ Engineering Philosophy 
 
 > *Great systems are not just designed —*  
 > *they are measured, analyzed, optimized, and trusted.*
