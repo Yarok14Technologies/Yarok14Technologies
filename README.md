@@ -218,6 +218,28 @@ I build **end-to-end intelligent systems** spanning:
   </a>
 </p>
 
+<!-- Yearly Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Yarok14Technologies">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yarok14Technologies&theme=github-dark&area=true"/>
+  </a>
+</p>
+
+<!-- Monthly Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Yarok14Technologies">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yarok14Technologies&theme=tokyo-night&custom_title=Monthly%20Activity"/>
+  </a>
+</p>
+
+<!-- Daily Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Yarok14Technologies">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yarok14Technologies&theme=dracula&bg_color=0d1117"/>
+  </a>
+</p>
+
+
 ---
 
 ## ❤️ Views & Followers 
